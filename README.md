@@ -14,6 +14,10 @@ nba_scoring_3pt_evolution/
 📊 Overview
 <img width="400" height="1000" alt="image" src="https://github.com/user-attachments/assets/ad924c3f-a535-4fe9-a039-4e3afa0c2fbe" />
 
+<img width="400" height="1000" alt="image" src="https://github.com/user-attachments/assets/31525798-08bc-410b-ac8f-f6a0eb4d7fd6" />          <img width="400" height="1000" alt="image" src="https://github.com/user-attachments/assets/b00d30f0-7daa-4d6f-b3f1-4c7607c2c4a1" />
+
+
+
 This project analyzes:
 
 How average points per game (PPG) changed from 1950 to 2024
